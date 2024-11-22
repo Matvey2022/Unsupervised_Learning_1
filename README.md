@@ -2,9 +2,9 @@
  
 I'll solve next task here: 
   
-```
-Using [UNSW-NB15 Dataset](https://www.dropbox.com/s/nsvgwps3abdoxnq/clustering_data.zip?dl=1):
 
+Using [UNSW-NB15 Dataset](https://www.dropbox.com/s/nsvgwps3abdoxnq/clustering_data.zip?dl=1):
+```
 1. Preprocess the dataset
 2. Reduce dimension using PCA
 3. Remove outliers
